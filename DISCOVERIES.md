@@ -206,6 +206,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## Video
 - [Twelve Labs](https://twelvelabs.io/) - Helping developers build programs that can see, listen, and understand the world through video understanding.
 - [invideo AI](https://invideo.io/) - Turn ideas into videos.
+- [One More Shot AI](https://www.onemoreshot.ai/) - Turn song into professional looking ai music video
 - [Haiper](https://www.haiper.ai/) - Create stunning videos with AI-powered tools for content creators.
 - [Viggle AI](https://viggle.ai/) - AI-powered video generation with character animation and motion control.
 - [TopView](https://www.topview.ai/) - Turn your links or media assets into viral videos in one click.
